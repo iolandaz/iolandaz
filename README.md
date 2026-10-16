@@ -81,7 +81,9 @@ Technology enthusiast with a strong foundation across multiple programming parad
     <td width="50%" valign="top">
       <h3 align="center">Dino-Run</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white"/>
       </p>
       <p>A small 2D endless runner built with C++.</p>
       <p align="center">
@@ -91,9 +93,7 @@ Technology enthusiast with a strong foundation across multiple programming parad
     <td width="50%" valign="top">
       <h3 align="center">ConsoleGardener-OOP</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       </p>
       <p>A console-based game built with C#, .NET, and Unity following Object-Oriented Programming (OOP) principles where you play as a gardener planting, managing, and growing a virtual garden. Features plant growth simulation, resource management, and interactive controls.</p>
       <p align="center">
