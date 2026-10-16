@@ -26,7 +26,7 @@
           <span style="color: #4C9EEB;">iolanda@dev</span>:<span style="color: #415A77;">~</span>$ cat tech_stack.json
         </p>
         <p style="margin: 8px 0 0 0; font-size: 14px; color: #4C9EEB;">
-          ["C#", ".NET", "React", "Blazor", "C/C++", "Python", "SQL"]
+          ["C#", "Java", "Javascript", "React", "C/C++", "Python", "SQL"]
         </p>
       </td>
     </tr>
