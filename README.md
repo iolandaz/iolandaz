@@ -79,25 +79,25 @@ Olá! Sou a **Iolanda Santos**, estudande de Engenharia Informática.
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">✨ Nome do Projeto 1</h3>
+      <h3 align="center">Dino-Run</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       </p>
-      <p>Breve descrição do projeto 1. Explique em poucas palavras qual problema ele resolve e quais tecnologias foram utilizadas.</p>
+      <p>A small 2D endless runner built with C++.</p>
       <p align="center">
-        <a href="https://github.com/iolandaz"><b>👉 Ver Repositório</b></a>
+        <a href="https://github.com/iolandaz/Dino-Run"><b>👉 Ver Repositório</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">✨ Nome do Projeto 2</h3>
+      <h3 align="center">ConsoleGardener-OOP</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white"/>
       </p>
-      <p>Breve descrição do projeto 2. Explique em poucas palavras qual problema ele resolve e quais tecnologias foram utilizadas.</p>
+      <p>A console-based game built with C#, .NET and Unity following Object-Oriented Programming (OOP) principles where you play as a gardener planting, managing, and growing a virtual garden. Features plant growth simulation, resource management, and interactive controls.</p>
       <p align="center">
-        <a href="https://github.com/iolandaz"><b>👉 Ver Repositório</b></a>
+        <a href="https://github.com/iolandaz/ConsoleGardener-OOP"><b>👉 Ver Repositório</b></a>
       </p>
     </td>
   </tr>
