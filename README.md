@@ -1,12 +1,36 @@
 <div align="center">
 
-  <!-- BANNER PERSONALIZADO (Ajuste a imagem para o seu gosto se desejar) -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=101B2B&height=220&section=header&text=Iolanda%20Santos&fontSize=68&fontColor=C5A059&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
-
-  <!-- TYPING ANIMATION (Animação de Digitação) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C5A059&center=true&vCenter=true&width=500&height=50&lines=Software+Developer;Transformando+ideias+em+c%C3%B3digo.;C%23+%7C+.NET+%7C+React+%7C+Blazor" alt="Typing SVG" />
-  </a>
+  <table width="100%" style="border-collapse: collapse; border: 1px solid #1B263B; border-radius: 8px; overflow: hidden; background-color: #0D1B2A;">
+    <!-- Barra Superior do Terminal -->
+    <tr style="background-color: #1B263B; height: 30px;">
+      <td style="padding-left: 12px; vertical-align: middle;">
+        <span style="color: #FF5F56; font-size: 14px;">●</span>
+        <span style="color: #FFBD2E; font-size: 14px; margin-left: 4px;">●</span>
+        <span style="color: #27C93F; font-size: 14px; margin-left: 4px;">●</span>
+        <span style="color: #778DA9; font-size: 12px; font-family: monospace; margin-left: 15px;">iolanda@dev:~</span>
+      </td>
+    </tr>
+    <!-- Conteúdo do Terminal -->
+    <tr>
+      <td style="padding: 24px; text-align: left; font-family: 'Fira Code', 'Courier New', monospace;">
+        <p style="margin: 0; font-size: 14px; color: #778DA9;">
+          <span style="color: #E0A96D;">iolanda@dev</span>:<span style="color: #415A77;">~</span>$ whoami
+        </p>
+        <h1 style="margin: 8px 0 4px 0; font-size: 28px; color: #FFD700; border-bottom: none; font-weight: bold;">
+          Iolanda Santos
+        </h1>
+        <p style="margin: 0 0 16px 0; font-size: 16px; color: #E0A96D; font-weight: 600;">
+          > Software Developer
+        </p>
+        <p style="margin: 0; font-size: 13px; color: #778DA9;">
+          <span style="color: #E0A96D;">iolanda@dev</span>:<span style="color: #415A77;">~</span>$ cat stack.txt
+        </p>
+        <p style="margin: 6px 0 0 0; font-size: 13px; color: #E0A96D;">
+          C# · .NET · Blazor · React · C/C++ · Python · SQL
+        </p>
+      </td>
+    </tr>
+  </table>
 
   <br/><br/>
 
