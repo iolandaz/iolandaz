@@ -1,39 +1,42 @@
 <div align="center">
 
-  <!-- TERMINAL STYLE BANNER (NAVY & GOLD) -->
+  <!-- ANIMATED DYNAMIC SVG BANNER (DARK BLUE & LIGHT ACCENT) -->
+<!-- TERMINAL / CONSOLE BANNER (BLUE & GOLD, FULL WIDTH) -->
   <table width="100%" style="border-collapse: collapse; border: 1px solid #1B263B; border-radius: 8px; overflow: hidden; background-color: #0D1B2A;">
-    <tr style="background-color: #1B263B; height: 30px;">
-      <td style="padding-left: 12px; vertical-align: middle;">
+    <tr style="background-color: #1B263B; height: 32px;">
+      <td style="padding-left: 14px; vertical-align: middle;">
         <span style="color: #FF5F56; font-size: 14px;">●</span>
         <span style="color: #FFBD2E; font-size: 14px; margin-left: 4px;">●</span>
         <span style="color: #27C93F; font-size: 14px; margin-left: 4px;">●</span>
-        <span style="color: #778DA9; font-size: 12px; font-family: monospace; margin-left: 15px;">iolanda@dev:~</span>
+        <span style="color: #778DA9; font-size: 13px; font-family: 'Fira Code', monospace; margin-left: 15px;">iolanda@dev:~</span>
       </td>
     </tr>
     <tr>
-      <td style="padding: 24px; text-align: left; font-family: 'Fira Code', 'Courier New', monospace;">
-        <p style="margin: 0; font-size: 14px; color: #778DA9;">
-          <span style="color: #E0A96D;">iolanda@dev</span>:<span style="color: #415A77;">~</span>$ whoami
+      <td style="padding: 28px 32px; text-align: left; font-family: 'Fira Code', 'Courier New', monospace;">
+        <p style="margin: 0; font-size: 15px; color: #778DA9;">
+          <span style="color: #4C9EEB;">iolanda@dev</span>:<span style="color: #415A77;">~</span>$ whoami
         </p>
-        <h1 style="margin: 8px 0 4px 0; font-size: 28px; color: #FFD700; border-bottom: none; font-weight: bold;">
+        <h1 style="margin: 10px 0 6px 0; font-size: 32px; color: #4C9EEB; border-bottom: none; font-weight: bold;">
           Iolanda Santos
         </h1>
-        <p style="margin: 0 0 16px 0; font-size: 16px; color: #E0A96D; font-weight: 600;">
-          > Software Developer
+        <p style="margin: 0 0 18px 0; font-size: 16px; color: #E0E1DD; font-weight: 500;">
+          > Building clean, scalable & modern software solutions
         </p>
-        <p style="margin: 0; font-size: 13px; color: #778DA9;">
-          <span style="color: #E0A96D;">iolanda@dev</span>:<span style="color: #415A77;">~</span>$ cat stack.txt
+        <p style="margin: 0; font-size: 14px; color: #778DA9;">
+          <span style="color: #4C9EEB;">iolanda@dev</span>:<span style="color: #415A77;">~</span>$ cat tech_stack.json
         </p>
-        <p style="margin: 6px 0 0 0; font-size: 13px; color: #E0A96D;">
-          C# · .NET · Blazor · React · C/C++ · Python · SQL
+        <p style="margin: 8px 0 0 0; font-size: 14px; color: #4C9EEB;">
+          ["C#", ".NET", "React", "Blazor", "C/C++", "Python", "SQL"]
         </p>
       </td>
     </tr>
   </table>
 
+  <br/><br/>
+
   <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4C9EEB&center=true&vCenter=true&width=500&height=40&lines=Building+clean+%26+scalable+solutions;Exploring+modern+technologies" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4C9EEB&center=true&vCenter=true&width=500&height=40&lines=Building+clean+%26+scalable+solutions;Passionate+about+software+engineering;Exploring+modern+technologies" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -85,7 +88,7 @@ Technology enthusiast with a strong foundation across multiple programming parad
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white"/>
       </p>
-      <p>A small 2D endless runner built with C++.</p>
+      <p>A small 2D endless runner built with Unity, C#, and .NET.</p>
       <p align="center">
         <a href="https://github.com/iolandaz/Dino-Run"><b>👉 View Repository</b></a>
       </p>
@@ -95,7 +98,7 @@ Technology enthusiast with a strong foundation across multiple programming parad
       <p align="center">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       </p>
-      <p>A console-based game built with C#, .NET, and Unity following Object-Oriented Programming (OOP) principles where you play as a gardener planting, managing, and growing a virtual garden. Features plant growth simulation, resource management, and interactive controls.</p>
+      <p>A C++ console-based game built with Object-Oriented Programming (OOP) principles where you play as a gardener planting, managing, and growing a virtual garden directly in the terminal. Features plant growth simulation, resource management, and interactive CLI controls.</p>
       <p align="center">
         <a href="https://github.com/iolandaz/ConsoleGardener-OOP"><b>👉 View Repository</b></a>
       </p>
@@ -109,7 +112,7 @@ Technology enthusiast with a strong foundation across multiple programming parad
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iolandaz&layout=compact&theme=dark&bg_color=0d1b2a&title_color=ffd700&text_color=e0a96d&icon_color=ffd700&border_color=1b263b&hide_border=false" alt="Iolanda's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iolandaz&layout=compact&theme=dark&bg_color=0d1b2a&title_color=4c9eeb&text_color=e0e1dd&icon_color=4c9eeb&border_color=1b263b&hide_border=false" alt="Iolanda's Top Languages" />
 </div>
 
 ---
@@ -124,13 +127,6 @@ Technology enthusiast with a strong foundation across multiple programming parad
 
 <div align="center">
   <p style="font-family: monospace; font-size: 12px; color: #778DA9;">
-    Iolanda Santos · Software Developer
+    Iolanda Santos
   </p>
-</div>
-<br/>
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=101B2B&height=120&section=footer&text=Feito%20com%20dedica%C3%A7%C3%A3o%20por%20Iolanda%20Santos&fontSize=16&fontColor=C5A059" width="100%" alt="Footer Banner" />
-
 </div>
