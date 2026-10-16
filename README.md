@@ -54,7 +54,7 @@
 
 ### About Me
 
-Software developer focused on designing and building efficient, scalable, and well-structured solutions. Experienced in the .NET ecosystem (C#, Blazor) and modern web technologies like React, I prioritize a practical approach: clean code, solid architecture, and delivering real value to the user.
+Technology enthusiast with a strong foundation across multiple programming paradigms, languages, and frameworks. Focused on problem-solving, solid software design, and continuous learning, with a versatile approach to building reliable systems and modern web applications.
 
 ---
 
