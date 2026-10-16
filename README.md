@@ -36,7 +36,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4C9EEB&center=true&vCenter=true&width=500&height=40&lines=Building+clean+%26+scalable+solutions;Passionate+about+software+engineering;Exploring+modern+technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4C9EEB&center=true&vCenter=true&width=500&height=40&lines=Building+clean+%26+scalable+solutions;Exploring+modern+technologies" alt="Typing SVG" />
   </a>
 
   <br/><br/>
