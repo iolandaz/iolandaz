@@ -20,7 +20,7 @@
           Iolanda Santos
         </h1>
         <p style="margin: 0 0 18px 0; font-size: 16px; color: #E0E1DD; font-weight: 500;">
-          > Building clean, scalable & modern software solutions
+          > Focused on problem-solving, solid software design, and continuous learning
         </p>
         <p style="margin: 0; font-size: 14px; color: #778DA9;">
           <span style="color: #4C9EEB;">iolanda@dev</span>:<span style="color: #415A77;">~</span>$ cat tech_stack.json
@@ -36,7 +36,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4C9EEB&center=true&vCenter=true&width=500&height=40&lines=Building+clean+%26+scalable+solutions;Exploring+modern+technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4C9EEB&center=true&vCenter=true&width=500&height=40&lines=Focused on problem-solving;Solid software design;, Continuous learning;Exploring+modern+technologies" alt="Typing SVG" />
   </a>
 
   <br/><br/>
